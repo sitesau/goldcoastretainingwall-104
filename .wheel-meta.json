@@ -1,0 +1,22 @@
+{
+  "wheel_id": 457,
+  "structure": "umbrella",
+  "slug": "goldcoastretainingwall-104",
+  "project": "retaining-walls-gold-coast-questions-to-ask-ecf6621be04c433c6aa",
+  "parent_t1_ref": "goldcoastretainingwall-151",
+  "node_role": "feeder",
+  "money_target": "goldcoastretainingwall.au",
+  "primary_kw": "retaining walls gold coast questions to ask",
+  "intended_url": "http://retaining-walls-gold-coast-questions-to-ask-ecf6621be04c433c6aa.s3-website-ap-southeast-2.amazonaws.com/index.html",
+  "tier": "T2",
+  "writeback_nonce": "49ab18ac6d4cc53a",
+  "links": [
+    {
+      "target_url": "https://aumedia.neocities.org/retaining-walls-gold-coast-58a6cba1749b7a72b40980814e45c6dda1eb/",
+      "anchor": "Retaining Walls Gold Coast: Retaining Walls Explained",
+      "rel": "follow",
+      "target_type": "cloud",
+      "anchor_type": "topical"
+    }
+  ]
+}
